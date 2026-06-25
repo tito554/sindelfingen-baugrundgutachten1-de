@@ -1,0 +1,51 @@
+# Geotechnik — Sindelfingen
+
+> Geotechnical engineering services in Sindelfingen, Deutschland.
+
+## Services
+- [Anker](https://sindelfingen.baugrundgutachten1.de/anker/)
+- [Atterberg Grenzen](https://sindelfingen.baugrundgutachten1.de/atterberg-grenzen/)
+- [Aushub](https://sindelfingen.baugrundgutachten1.de/aushub/)
+- [Aushub Monitoring](https://sindelfingen.baugrundgutachten1.de/aushub-monitoring/)
+- [Bodenplatten](https://sindelfingen.baugrundgutachten1.de/bodenplatten/)
+- [Bodenverbesserung](https://sindelfingen.baugrundgutachten1.de/bodenverbesserung/)
+- [Boschungsstabilitat](https://sindelfingen.baugrundgutachten1.de/boschungsstabilitat/)
+- [Cbr Strasse](https://sindelfingen.baugrundgutachten1.de/cbr-strasse/)
+- [Cpt Versuch](https://sindelfingen.baugrundgutachten1.de/cpt-versuch/)
+- [Erdbebenisolierung](https://sindelfingen.baugrundgutachten1.de/erdbebenisolierung/)
+- [Flexibler Belag](https://sindelfingen.baugrundgutachten1.de/flexibler-belag/)
+- [Fundamente](https://sindelfingen.baugrundgutachten1.de/fundamente/)
+- [Grundungen](https://sindelfingen.baugrundgutachten1.de/grundungen/)
+- [Hange](https://sindelfingen.baugrundgutachten1.de/hange/)
+- [In Situ Durchlassigkeit](https://sindelfingen.baugrundgutachten1.de/in-situ-durchlassigkeit/)
+- [Injektionen](https://sindelfingen.baugrundgutachten1.de/injektionen/)
+- [Korngrossenanalyse](https://sindelfingen.baugrundgutachten1.de/korngrossenanalyse/)
+- [Labor](https://sindelfingen.baugrundgutachten1.de/labor/)
+- [Labor In Situ](https://sindelfingen.baugrundgutachten1.de/labor-in-situ/)
+- [Masw](https://sindelfingen.baugrundgutachten1.de/masw/)
+- [Pfahle](https://sindelfingen.baugrundgutachten1.de/pfahle/)
+- [Proctor Versuche](https://sindelfingen.baugrundgutachten1.de/proctor-versuche/)
+- [Ruttelverdichtung](https://sindelfingen.baugrundgutachten1.de/ruttelverdichtung/)
+- [Sandkegel Dichte](https://sindelfingen.baugrundgutachten1.de/sandkegel-dichte/)
+- [Schottersaulen](https://sindelfingen.baugrundgutachten1.de/schottersaulen/)
+- [Schurfgruben](https://sindelfingen.baugrundgutachten1.de/schurfgruben/)
+- [Seismik](https://sindelfingen.baugrundgutachten1.de/seismik/)
+- [Seismische Mikrozonierung](https://sindelfingen.baugrundgutachten1.de/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://sindelfingen.baugrundgutachten1.de/seismische-refraktion/)
+- [Spt Bohrung](https://sindelfingen.baugrundgutachten1.de/spt-bohrung/)
+- [Starrer Belag](https://sindelfingen.baugrundgutachten1.de/starrer-belag/)
+- [Strassenbau](https://sindelfingen.baugrundgutachten1.de/strassenbau/)
+- [Stutzmauern](https://sindelfingen.baugrundgutachten1.de/stutzmauern/)
+- [Tiefe Aushube](https://sindelfingen.baugrundgutachten1.de/tiefe-aushube/)
+- [Triaxialversuch](https://sindelfingen.baugrundgutachten1.de/triaxialversuch/)
+- [Untersuchung](https://sindelfingen.baugrundgutachten1.de/untersuchung/)
+- [Verflussigung](https://sindelfingen.baugrundgutachten1.de/verflussigung/)
+- [Weichbodentunnel](https://sindelfingen.baugrundgutachten1.de/weichbodentunnel/)
+- [Widerstand](https://sindelfingen.baugrundgutachten1.de/widerstand/)
+
+## Contact
+- Website: https://sindelfingen.baugrundgutachten1.de/
+
+## About
+This site provides geotechnical engineering services in Sindelfingen, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
